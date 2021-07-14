@@ -7,4 +7,4 @@ This application is a copyright management system built on the Ethereum blockcha
 
 ## Demo App
 
-Click [Here](frontend/index.htm) to launch the CrptoRight application
+Click [Here](frontend/index.html) to launch the CrptoRight application
